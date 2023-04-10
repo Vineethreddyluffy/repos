@@ -1,0 +1,45 @@
+.avatar-img {
+  height: 50px;
+  width: 50px;
+  align-self: center;
+}
+.name {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #e73959;
+  align-self: center;
+}
+.para {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #1e293b;
+}
+.img-cont {
+  display: flex;
+  align-items: center;
+}
+.list-item {
+  display: flex;
+  flex-direction: column;
+  background-color: #f8f8ff;
+  border-radius: 10px;
+  padding: 20px;
+  width: 200px;
+  margin: 10px;
+}
+.stars {
+  height: 20px;
+  width: 20px;
+  margin-right: 8px;
+}
+.forks {
+  height: 20px;
+  width: 20px;
+  margin-right: 8px;
+}
+.issues {
+  height: 20px;
+  width: 20px;
+  margin-right: 8px;
+}
